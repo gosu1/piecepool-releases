@@ -13,13 +13,13 @@
 ## 요구 사항
 
 - 맥: M1 이후 애플 실리콘 맥
-- 윈도우: 윈도우 10 이상 64비트 (곧 올라와요)
+- 윈도우: 윈도우 10 이상 64비트
 - AI 기능: 파일럿 동안은 메일로 받은 키를 앱의 「AI 켜기」에 넣어야 해요.
 
 ## 내려받기
 
 - 맥: [PiecePool.dmg](https://github.com/gosu1/piecepool-releases/releases/latest/download/PiecePool.dmg)
-- 윈도우: 곧 올라와요.
+- 윈도우: [PiecePool-Setup.exe](https://github.com/gosu1/piecepool-releases/releases/latest/download/PiecePool-Setup.exe)
 
 ## 설치 안내 (파일럿)
 
@@ -27,9 +27,7 @@
 
 ### 윈도우
 
-윈도우 판은 곧 올라와요.
-
-1. `PiecePool-Setup.exe`를 받아요. 브라우저가 "일반적으로 다운로드되지 않는 파일"이라며 막으면, 다운로드 목록에서 「유지」를 눌러요.
+1. [`PiecePool-Setup.exe`](https://github.com/gosu1/piecepool-releases/releases/latest/download/PiecePool-Setup.exe)를 받아요. 브라우저가 "일반적으로 다운로드되지 않는 파일"이라며 막으면, 다운로드 목록에서 「유지」를 눌러요.
 2. 받은 파일을 열면 파란 "Windows의 PC 보호" 창이 떠요. 「추가 정보」를 누른 뒤 「실행」을 눌러요.
 3. 설치는 저절로 끝나고, 바탕화면에 PiecePool 아이콘이 생겨요.
 
