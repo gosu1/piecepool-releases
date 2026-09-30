@@ -48,4 +48,6 @@
 
 ## 참고
 
+- 홈페이지: https://piecepool.pages.dev
+- 문의: dxc1196@gmail.com
 - 이 저장소에는 설치 파일과 업데이트만 올려요. 소스 코드는 공개하지 않아요.
