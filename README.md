@@ -2,7 +2,7 @@
 
 대화할수록 나를 알게 되는 노트앱이에요. 예전에 한 말을 날짜와 원문 그대로 꺼내 놓고, 딱 하나만 되물어요.
 
-**최신 버전 0.2.0** · 2026-10-01 · [바뀐 점 보기](https://github.com/gosu1/piecepool-releases/releases/latest)
+**최신 버전 0.2.1** · 2026-10-01 · [바뀐 점 보기](https://github.com/gosu1/piecepool-releases/releases/latest)
 
 ## 주요 기능
 
